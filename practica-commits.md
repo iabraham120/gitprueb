@@ -59,12 +59,12 @@ Algo sobre mí : Me gusta entrenar jiujitsu y jugar videojuegos
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` |Inicializa un nuevo repositorio local de Git en la carpeta actual |
+| `git status` |Muestra el estado actual del directorio de trabajo |
+| `git add .` |Agrega todos los archivos del directorio actual al staging area |
+| `git commit -m "..."` |Guarda de forma permanente los cambios en el historial, acompañados de un mensaje|
+| `git log --oneline` |Muestra el historial de commits mostrando cada registro en una sola línea |
+| `git push` |Sube los commits del repositorio local al repositorio remoto |
 
 ---
 
