@@ -13,7 +13,7 @@ Edita → `git add practica-commits.md` → `git commit -m "..."`
 ```
 Nombre     : Iztli Abraham Nava Sandoval
 GitHub     : https://github.com/iabraham120
-Algo sobre mí : Me gusta entrenar jiujitsu y ujgar videojuegos
+Algo sobre mí : Me gusta entrenar jiujitsu y jugar videojuegos
 ```
 
 ---
@@ -23,7 +23,9 @@ Algo sobre mí : Me gusta entrenar jiujitsu y ujgar videojuegos
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Soy bueno en el Smash XD
+- Aprendo solo
+- Soluciono problemas rapido
 
 ---
 
