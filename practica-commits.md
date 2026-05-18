@@ -35,9 +35,9 @@ Algo sobre mí : Me gusta entrenar jiujitsu y jugar videojuegos
 **Commit:** `fix(convenciones): corrige errores en descripción de Git`
 
 > Git es un sistema de control de versiones creado en 2005 por Linus Torvalds
-> para reemplazar a SubVersion, que era de código cerrado y dejó de darse gratis al proyecto Linux.
+> para reemplazar a BitKeeper, que era de licencia y dejó de darse gratis al proyecto Linux.
 > Cada commit guarda una fotografía de todos los archivos del repositorio en ese momento,
-> identificada con un hash MD5 único. Para subir cambios al servidor usamos `git pull`.
+> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`.
 
 ---
 
@@ -46,9 +46,9 @@ Algo sobre mí : Me gusta entrenar jiujitsu y jugar videojuegos
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Aprendí a usar Git para controlar versiones de proyectos, crear commits, revisar cambios y mantener un historial organizado del trabajo realizado durante el desarrollo de un programa o proyecto.
+2. Aprendí qué es un hash en Git y cómo funciona como un identificador único para commits, permitiendo reconocer cambios específicos dentro del historial del repositorio de    manera segura y precisa.
+3. Aprendí la importancia de hacer commits eficientes y descriptivos, escribiendo mensajes claros y separando cambios importantes para que el historial del proyecto sea más fácil de entender y mantener.
 
 ---
 
