@@ -2,3 +2,4 @@
 **Alumno**: Iztli Abraham Nava Sandoval
 **Color Favorito**: Amarillo?
 **Apodo**: Abraham
+**game fav**: Zelda OOT
