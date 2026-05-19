@@ -29,6 +29,21 @@ int main() {
 
     return 0;
 }
-
+<h3><strong>Explicación del Código</strong></h3>
+</code></pre>
+<pre><code>
+#include &lt;stdio.h&gt; : <p>Es una directiva de preprocesador que incluye la biblioteca estándar </p>
+int main() {: <p>Es la función principal del programa, donde comienza la ejecución.</p>
+    int edad; : <p>Declara una variable de tipo entero llamada edad, que se usará para almacenar la edad ingresada por el usuario.</p>
+    printf("Introduce tu edad: "); : <p>Imprime el mensaje en la consola.</p>
+    scanf("%d", &edad); : <p>Lee un valor entero ingresado por el usuario y lo almacena en la variable edad.&edad pasa la dirección de la variable para almacenar el valor.</p>
+    if (edad >= 18) { : <p>Inicia una estructura de control if que verifica si la edad ingresada es mayor o igual a 18.</p>
+        printf("Eres mayor de edad.\n"); : <p>Si la condición es verdadera, se ejecuta esta línea que imprime "Eres mayor de edad." en la consola.</p>
+    } else { : <p>Si la condición del if no se cumple (edad es menor de 18), se ejecuta el bloque else.</p>
+        printf("Eres menor de edad.\n");
+    }        
+    return 0; : <p>Indica que la función main ha terminado correctamente y devuelve el valor 0 al sistema operativo, lo que generalmente significa que el programa se ejecutó sin errores.</p>
+}
+</code></pre>
 </body>
 </html>
